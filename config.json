@@ -125,8 +125,5 @@
         "nativeOTA": {
             "enabled": false
         }
-    },
-    "appVersion": "0.0.3",
-    "buildNumber": 6,
-    "runtimeUrl": "https://cov-warehousescanner-test.mendixcloud.com/"
+    }
 }
