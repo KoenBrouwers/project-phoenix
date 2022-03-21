@@ -95,7 +95,15 @@
     "capabilities": {
         "deepLink": {
             "value": "",
-            "enabled": false
+            "enabled": false,
+            "android": {
+                "webLinks": [
+                    {
+                        "host": "",
+                        "path": ""
+                    }
+                ]
+            }
         },
         "maps": {
             "value": "",
@@ -123,7 +131,10 @@
             "enabled": false
         },
         "nativeOTA": {
-            "enabled": false
+            "enabled": true
         }
-    }
+    },
+    "appVersion": "0.0.7",
+    "buildNumber": 7,
+    "runtimeUrl": "https://cov-warehousescanner-test.mendixcloud.com/"
 }
