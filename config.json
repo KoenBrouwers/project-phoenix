@@ -135,6 +135,6 @@
         }
     },
     "appVersion": "0.0.11",
-    "buildNumber": 10,
-    "runtimeUrl": "https://cov-warehousescanner-test.mendixcloud.com/"
+    "buildNumber": 11,
+    "runtimeUrl": "http://192.168.86.84:8080/"
 }
