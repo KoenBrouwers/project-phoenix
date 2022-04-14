@@ -1,9 +1,9 @@
 {
     "configVersion": 2,
     "appIdentifier": "com.dsm.phoenix",
-    "appName": "Project Phoenix",
+    "appName": "Project Phoenix - Test",
     "bundleName": {
-        "main": "ProjectPhoenix4",
+        "main": "ProjectPhoenix",
         "dev": "ProjectPhoenDev"
     },
     "deviceTarget": {
@@ -134,7 +134,7 @@
             "enabled": true
         }
     },
-    "appVersion": "0.0.14",
+    "appVersion": "0.1.1",
     "buildNumber": 12,
     "runtimeUrl": "https://cov-warehousescanner-test.mendixcloud.com/"
 }
