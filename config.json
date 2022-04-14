@@ -134,7 +134,7 @@
             "enabled": true
         }
     },
-    "appVersion": "0.0.12",
+    "appVersion": "0.0.14",
     "buildNumber": 12,
     "runtimeUrl": "https://cov-warehousescanner-test.mendixcloud.com/"
 }
