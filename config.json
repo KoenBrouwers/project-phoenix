@@ -135,6 +135,6 @@
         }
     },
     "appVersion": "0.1.1",
-    "buildNumber": 13,
-    "runtimeUrl": "https://cov-warehousescanner-test.mendixcloud.com/"
+    "buildNumber": 14,
+    "runtimeUrl": "https://cov-warehousescanner-accp.mendixcloud.com/"
 }
