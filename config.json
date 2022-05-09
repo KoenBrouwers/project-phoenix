@@ -134,7 +134,7 @@
             "enabled": true
         }
     },
-    "appVersion": "0.1.1",
-    "buildNumber": 15,
-    "runtimeUrl": "https://cov-warehousescanner-accp.mendixcloud.com/"
+    "appVersion": "0.0.56",
+    "buildNumber": 16,
+    "runtimeUrl": "http://192.168.86.86:8080/"
 }
