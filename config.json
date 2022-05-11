@@ -1,7 +1,7 @@
 {
     "configVersion": 2,
-    "appIdentifier": "com.covestro.phoenix",
-    "appName": "Project Phoenix - Acceptance",
+    "appIdentifier": "com.covestro.phoenix.test",
+    "appName": "Project Phoenix - Test",
     "bundleName": {
         "main": "ProjectPhoenix",
         "dev": "ProjectPhoenDev"
@@ -134,7 +134,7 @@
             "enabled": true
         }
     },
-    "appVersion": "0.0.26",
-    "buildNumber": 19,
+    "appVersion": "0.0.27",
+    "buildNumber": 20,
     "runtimeUrl": "https://cov-warehousescanner-test.mendixcloud.com/"
 }
